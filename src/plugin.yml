@@ -1,0 +1,6 @@
+name: OpSkyAPI
+version: 0.1
+author: Dinnerwolph
+main: fr.dinnerwolph.api.Api
+commands:
+  ping:
